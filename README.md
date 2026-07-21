@@ -2,7 +2,9 @@
 ### A Distributed Machine Learning Approach - Apache Spark MLlib
 
 **Student Names:** Alina Baig and Kulsoom Zaidi
+
 **Course:** Big Data Analytics and Text Mining - Module 2
+
 **University:** Università di Bologna - MSc Artificial Intelligence
 
 ---
